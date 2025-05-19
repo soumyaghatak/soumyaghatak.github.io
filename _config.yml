@@ -22,7 +22,7 @@ repository               : "https://github.com/soumyaghatak/soumyaghatak.github.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_1.jpeg"
   name             : "Soumya Ghatak"
   pronouns         : "he/him" # example: "she/her"  
   bio              : "PhD Student, IIsc"
