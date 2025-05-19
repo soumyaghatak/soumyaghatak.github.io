@@ -23,7 +23,7 @@ repository               : "https://github.com/soumyaghatak/soumyaghatak.github.
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  #name             : "Your Sidebar Name"
   pronouns         : "he/him" # example: "she/her"  
   bio              : "PhD Student, IIsc"
   location         : "Bengaluru, India"
