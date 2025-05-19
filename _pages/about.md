@@ -9,7 +9,7 @@ redirect_from:
 
 Hi there, I'm Soumya (সৌম্য)!
 
-I am a first year student PhD student at <a href="https://iisc.ac.in/">Indian Institute of Science, Bangalore</a>
+I am a first year PhD student at <a href="https://iisc.ac.in/">Indian Institute of Science, Bangalore</a>
 
 
 
