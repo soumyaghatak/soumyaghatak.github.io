@@ -9,7 +9,7 @@ redirect_from:
 
 Hi there, I'm Soumya Ghatak (সৌম্য ঘটক)!
 
-I am a first year PhD student at the department of [Electrical and Communication Engineering](https://ece.iisc.ac.in/), [Indian Institute of Science, Bangalore](https://iisc.ac.in/) advised by [Aditya Gopalan](https://ece.iisc.ac.in/~aditya/index.html).
+I am a first year PhD student at the department of [Electrical and Communication Engineering](https://ece.iisc.ac.in/), [Indian Institute of Science, Bangalore](https://iisc.ac.in/), advised by [Aditya Gopalan](https://ece.iisc.ac.in/~aditya/index.html).
 
 
 
