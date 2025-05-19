@@ -9,24 +9,7 @@ redirect_from:
 
 Hi there, I'm Soumya (সৌম্য)!
 
-sajdlkdhas
-
-
-
-
-
-sajiiiiiiiiiiiii
-kkkkkkkkkkkkkkkkkkkkkkkkkkk
-
-
-
-
-
-
-
-
-
-saaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+I am a first year student PhD student at <a href="https://iisc.ac.in/">Indian Institute of Science, Bangalore</a>
 
 
 
