@@ -9,7 +9,7 @@ redirect_from:
 
 Hi there, I'm Soumya Ghatak (সৌম্য ঘটক)!
 
-I am a first year PhD student at the department of [Electrical and Communication Engineering](https://ece.iisc.ac.in/), [Indian Institute of Science, Bangalore](https://iisc.ac.in/), advised by [Aditya Gopalan](https://ece.iisc.ac.in/~aditya/index.html). Prior to that I did my Master's and Bachelor's in statistics from [University of Hyderabad](https://uohyd.ac.in/) and [University of Calcutta](https://www.caluniv.ac.in/) (Asutosh College) respectively.
+I am a first year PhD student at the department of [Electrical and Communication Engineering](https://ece.iisc.ac.in/), [Indian Institute of Science, Bangalore](https://iisc.ac.in/), advised by [Aditya Gopalan](https://ece.iisc.ac.in/~aditya/index.html). Prior to that I did my Master's from [University of Hyderabad](https://uohyd.ac.in/) and Bachelor's from [University of Calcutta](https://www.caluniv.ac.in/) (Asutosh College) both in statistics.
 
 
 
