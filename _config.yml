@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Soumya Ghatak"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Soumya Ghatak"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ repository               : "https://github.com/soumyaghatak/soumyaghatak.github.
 author:
   # Biographic information
   avatar           : "profile.png"
-  #name             : "Your Sidebar Name"
+  name             : "Soumya Ghatak"
   pronouns         : "he/him" # example: "she/her"  
   bio              : "PhD Student, IIsc"
   location         : "Bengaluru, India"
