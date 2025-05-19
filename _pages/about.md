@@ -13,6 +13,14 @@ I am a first year PhD student at the department of [Electrical and Communication
 
 
 
+Currently, I am working on best arm identification (BAI) problem for continuous armed bandits. I am also interested in Bandits Algorithms, Reinforcement Learning, Theoretical ML , Optimization, Applied Probability and Statistical Inference.
+
+
+
+
+
+
+
 
 
 
