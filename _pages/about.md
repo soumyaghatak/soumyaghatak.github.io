@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Soumya Ghatak"
+title: #"Soumya Ghatak"
 author_profile: true
 redirect_from: 
   - /about/
