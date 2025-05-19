@@ -29,7 +29,7 @@ author:
   location         : "Bengaluru, India"
   employer         : "Indian Institute of Science (IISc)"
   uri              : "https://soumyaghatak.github.io/" # URL
-  email            : "soumyaghatak@iisc.ac.in" 
+  email            : "<firstname><lastname>AT iisc DOT ac DOT in" 
 
   # Academic websites
   academia         : # URL
